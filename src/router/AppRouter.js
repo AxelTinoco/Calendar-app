@@ -1,5 +1,5 @@
 import React from 'react'
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import { LoginScreen } from '../components/auth/LoginScreen';
 import { CalendarScreen } from '../components/calendar/CalendarScreen';
 import { PageNotFound } from '../components/ui/PageNotFound';
